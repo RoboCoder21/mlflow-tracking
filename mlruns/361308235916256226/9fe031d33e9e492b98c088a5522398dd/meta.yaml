@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/361308235916256226/9fe031d33e9e492b98c088a5522398dd/artifacts
+end_time: 1731530524240
+entry_point_name: ''
+experiment_id: '361308235916256226'
+lifecycle_stage: active
+run_id: 9fe031d33e9e492b98c088a5522398dd
+run_name: worried-cod-961
+run_uuid: 9fe031d33e9e492b98c088a5522398dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731530524147
+status: 4
+tags: []
+user_id: eternal
